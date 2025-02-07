@@ -41,6 +41,7 @@ public class RestAssuredApiPages {
 		System.out.println(response.asPrettyString());
 		System.out.println(response.getStatusLine());
 		logger.info("Element is retrieved");
+		
 	}
 
 }
